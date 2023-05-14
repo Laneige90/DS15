@@ -1,3 +1,4 @@
+# 소인수, 소인수분해
 import random
 
 rNum = random.randint(100,1000)
