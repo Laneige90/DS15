@@ -14,4 +14,4 @@ for classNo, cnt in studentCnt:
 
 print('학생 수가 가장 많은 학급 : {}학급 ({}명)'.format(maxClassNo, maxCnt))
 print('학생 수가 가장 적은 학급 : {}학급 ({}명)'.format(minClassNo, minCnt))
-ds = 1
+ds = 2
